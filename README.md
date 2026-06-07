@@ -1,7 +1,7 @@
 # 👋 Hi, I'm Muhammad Anus Manan
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=AI+%26+ML+Enthusiast;Full-Stack+Developer;Love+to+Explore+Data+Science;Always+Learning" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=BS+Ai+Student;AI+%26+ML+Enthusiast;Full-Stack+Developer;Interst+to+Explore+Data+Science;Always+Learning+%26+Exploring" alt="Typing SVG" />
 </div>
 
 ---
