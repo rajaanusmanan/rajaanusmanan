@@ -42,13 +42,23 @@ Currently, I'm focused on:
 
 ---
 
-## 📊 GitHub Statistics
+## 📊 GitHub Analytics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajaanusmanan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true" alt="GitHub Stats" />
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaanusmanan&layout=compact&theme=tokyonight&langs_count=8" alt="Top Languages" />
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api?username=rajaanusmanan&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"
+       alt="GitHub Stats" />
+
+  <img height="180em"
+       src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaanusmanan&layout=compact&theme=tokyonight&langs_count=8"
+       alt="Most Used Languages" />
+
 </div>
 
+<p align="center">
+  <i>Data reflects public contributions and programming activity.</i>
+</p>
 ---
 
 ## 🔥 Contribution Streak
@@ -66,19 +76,6 @@ Currently, I'm focused on:
 - **Description:** A comprehensive web-based application for managing personal finances with features like expense tracking, budget planning, and financial analytics.
 - **Repository:** [View Project](https://github.com/rajaanusmanan) <!-- Replace with actual project URL -->
 
-
-### 2. **Database Management System **
-- **Tech Stack:** C++, SQL, MySQL
-- **Description:** Implementation of database concepts including indexing, query optimization, transaction management, and data normalization.
-- **Repository:** [View Project](https://github.com/rajaanusmanan) <!-- Replace with actual project URL -->
-
-
-## 📜 Certifications
-
-- Python for Everybody
-- Machine Learning Fundamentals
-- SQL for Data Science
-- Git & GitHub Essentials
 
 ## 💼 Career Interests
 
