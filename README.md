@@ -8,10 +8,9 @@
 
 ## 🎓 About Me
 
-I'm a **BS Artificial Intelligence** student at **National University of Technology (NUTECH), Pakistan**, passionate about leveraging AI and machine learning to solve real-world problems. I combine strong foundational knowledge in AI/ML with full-stack web development expertise to create intelligent and scalable solutions.
+I'm a **BS Artificial Intelligence** student , passionate about leveraging AI and machine learning to solve real-world problems. I combine strong foundational knowledge in AI/ML with full-stack web development expertise to create intelligent and scalable solutions.
 
 Currently, I'm focused on:
-- 🔭 Building machine learning models and deep learning projects
 - 🌱 Deepening expertise in AI/ML algorithms and data science
 - 💻 Developing full-stack web applications with modern frameworks
 - 📊 Working with databases and data management systems
@@ -23,8 +22,6 @@ Currently, I'm focused on:
 
 ### AI/ML & Data Science
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Machine Learning](https://img.shields.io/badge/Machine%20Learning-FF6B6B?style=for-the-badge&logo=tensorflow&logoColor=white)
-![Deep Learning](https://img.shields.io/badge/Deep%20Learning-FF6B6B?style=for-the-badge&logo=pytorch&logoColor=white)
 ![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=pandas&logoColor=white)
 
 ### Programming Languages
@@ -69,32 +66,19 @@ Currently, I'm focused on:
 - **Description:** A comprehensive web-based application for managing personal finances with features like expense tracking, budget planning, and financial analytics.
 - **Repository:** [View Project](https://github.com/rajaanusmanan) <!-- Replace with actual project URL -->
 
-### 2. **Hawk AI Project**
-- **Tech Stack:** Python, Machine Learning, AI
-- **Description:** An intelligent system leveraging AI techniques for advanced problem-solving and decision-making capabilities.
-- **Repository:** [View Project](https://github.com/rajaanusmanan) <!-- Replace with actual project URL -->
 
-### 3. **Machine Learning Projects**
-- **Tech Stack:** Python, TensorFlow, PyTorch, Scikit-learn
-- **Description:** Collection of machine learning projects including classification, regression, clustering, and neural network implementations.
-- **Repository:** [View Project](https://github.com/rajaanusmanan) <!-- Replace with actual project URL -->
-
-### 4. **Database Management System Projects**
+### 2. **Database Management System **
 - **Tech Stack:** C++, SQL, MySQL
 - **Description:** Implementation of database concepts including indexing, query optimization, transaction management, and data normalization.
 - **Repository:** [View Project](https://github.com/rajaanusmanan) <!-- Replace with actual project URL -->
 
----
 
-## 📈 What I'm Currently Working On
+## 📜 Certifications
 
-- 📚 Advanced machine learning algorithms and neural network architectures
-- 🔍 Deep learning projects with computer vision and NLP applications
-- 🌐 Full-stack web development with modern frameworks
-- 💾 Database optimization and management techniques
-- 🤖 AI-driven solutions for real-world applications
-
----
+- Python for Everybody
+- Machine Learning Fundamentals
+- SQL for Data Science
+- Git & GitHub Essentials
 
 ## 💼 Career Interests
 
@@ -127,14 +111,9 @@ I'm actively seeking:
 
 <div align="center">
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/YOUR_LINKEDIN_PROFILE) 
-<!-- Replace YOUR_LINKEDIN_PROFILE with your actual LinkedIn username -->
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anus-manan-raja-036b182bb/) 
 
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:YOUR_EMAIL@example.com)
-<!-- Replace YOUR_EMAIL@example.com with your actual email address -->
-
-[![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139)](https://yourportfolio.com)
-<!-- Replace https://yourportfolio.com with your actual portfolio website -->
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:rajaanusmanan1122@gmail.com)
 
 [![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajaanusmanan)
 
