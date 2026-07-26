@@ -26,8 +26,8 @@
 
 ## 🎓 About Me
 
-I’m a **BS Artificial Intelligence student** passionate about building intelligent systems that solve real-world problems.  
-I enjoy working across **AI, Machine Learning, Data Science, Databases, and Full-Stack Development**—turning ideas into practical products.
+I'm a **BS Artificial Intelligence student** passionate about building intelligent systems that solve real-world problems.  
+I enjoy working across **AI, Machine Learning, Data Science, Databases, and Full-Stack Development**—turning ideas into practical solutions.
 
 ---
 
@@ -46,12 +46,12 @@ Fun Fact:   I debug ML models more than my code 😅
 
 ## 🌱 Currently Learning
 
-- Artificial Intelligence
-- Machine Learning
-- Computer Vision
-- Data Science
+- Artificial Intelligence & Deep Learning
+- Machine Learning Algorithms
+- Computer Vision & Image Processing
+- Data Science & Analytics
 - SQL & Database Design
-- Flask Development
+- Flask & Web Development
 
 ---
 
@@ -92,7 +92,7 @@ Fun Fact:   I debug ML models more than my code 😅
   <img src="https://img.shields.io/badge/Scikit--Learn-F7931E?style=for-the-badge&logo=scikitlearn" alt="Scikit-learn"/>
 </p>
 
-### Tools
+### Tools & Technologies
 <p>
   <img src="https://skillicons.dev/icons?i=git,github,vscode,figma,linux" alt="Tools" />
 </p>
@@ -174,7 +174,7 @@ LLM-powered intelligent chatbot using Python and NLP techniques.
 
 ## 🌍 Open Source
 
-I’m actively looking to contribute to open-source projects in **AI, Machine Learning, and Web Development**.  
+I'm actively looking to contribute to open-source projects in **AI, Machine Learning, and Web Development**.  
 Feel free to reach out if you have a project where I can add value.
 
 ---
@@ -194,7 +194,7 @@ Feel free to reach out if you have a project where I can add value.
 - 🚀 Build real-world AI projects  
 - 🤖 Master Machine Learning & Deep Learning  
 - 📊 Improve Data Science skills  
-- 💻 Contribute to open source  
+- 💻 Contribute to open-source projects  
 - 💼 Secure an AI/ML internship  
 
 ---
