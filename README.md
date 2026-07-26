@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=200&section=header&text=Muhammad%20Anus%20Manan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI%20%26%20ML%20Enthusiast%20%7C%20Full-Stack%20Developer&descAlignY=55&descSize=18"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=0891b2&height=200&section=header&text=Muhammad+Anus+Manan&fontSize=42&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=AI+%26+ML+Enthusiast&descAlignY=55&descSize=18"/>
 
 </div>
 
@@ -14,7 +14,7 @@
 <a href="https://www.linkedin.com/in/anus-manan-raja-036b182bb/">
 <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin"/>
 </a>
-<a href="mailto:YOUR_EMAIL">
+<a href="mailto:rajaanusmanan1122@gmail.com">
 <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail"/>
 </a>
 <a href="https://github.com/rajaanusmanan">
@@ -51,7 +51,6 @@ Fun Fact:      I debug my ML models more than my code 😅
 
 - Artificial Intelligence
 - Machine Learning
-- Deep Learning
 - Computer Vision
 - Data Science
 - SQL & Database Design
