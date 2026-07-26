@@ -1,194 +1,163 @@
 # 👋 Hi, I'm Muhammad Anus Manan
 
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=500&lines=BS+Ai+Student;AI+%26+ML+Enthusiast;Full-Stack+Developer;Interst+to+Explore+Data+Science;Always+Learning+%26+Exploring" alt="Typing SVG" />
-</div>
+::: {align="center"}
+`<img src="https://capsule-render.vercel.app/api?type=waving&color=0:00C6FF,100:0072FF&height=220&section=header&text=Muhammad%20Anus%20Manan&fontSize=40&fontColor=ffffff"/>`{=html}
+:::
 
----
+::: {align="center"}
+`<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=00D9FF&center=true&vCenter=true&width=700&lines=BS+Artificial+Intelligence+Student;AI+%26+Machine+Learning+Enthusiast;Full-Stack+Developer;Interested+in+Data+Science;Always+Learning+%26+Building"/>`{=html}
+:::
+
+```{=html}
+<p align="center">
+```
+`<img src="https://komarev.com/ghpvc/?username=rajaanusmanan&label=Profile%20Views&color=0891b2&style=for-the-badge"/>`{=html}
+```{=html}
+</p>
+```
+
+------------------------------------------------------------------------
 
 ## 🎓 About Me
 
-I'm a **BS Artificial Intelligence** student , passionate about leveraging AI and machine learning to solve real-world problems. I combine strong foundational knowledge in AI/ML with full-stack web development expertise to create intelligent and scalable solutions.
+I'm a **BS Artificial Intelligence** student passionate about AI,
+Machine Learning, Data Science, Databases, and Full‑Stack Development. I
+enjoy building practical projects that solve real-world problems and
+continuously improving my technical skills.
 
-Currently, I'm focused on:
-- 🌱 Deepening expertise in AI/ML algorithms and data science
-- 💻 Developing full-stack web applications with modern frameworks
-- 📊 Working with databases and data management systems
-- 🤝 Contributing to open-source projects and collaborating with the community
+## ⚡ Quick Facts
 
----
+-   🎓 BS Artificial Intelligence Student
+-   📍 Islamabad, Pakistan
+-   🌱 Learning Deep Learning, Computer Vision & Data Science
+-   💬 Ask me about Python, Flask, SQL & AI
+-   🤝 Open to AI/ML collaborations
 
-## 🛠️ Technical Skills
+------------------------------------------------------------------------
 
-### AI/ML & Data Science
-![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
-![Data Science](https://img.shields.io/badge/Data%20Science-4B8BBE?style=for-the-badge&logo=pandas&logoColor=white)
+## 🛠️ Tech Stack
 
-### Programming Languages
-![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&logo=cplusplus&logoColor=white)
-![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=java&logoColor=white)
-![SQL](https://img.shields.io/badge/SQL-336791?style=for-the-badge&logo=postgresql&logoColor=white)
+```{=html}
+<p align="center">
+```
+`<img src="https://skillicons.dev/icons?i=python,cpp,java,html,css,js,flask,mysql,git,github,vscode,linux,tensorflow,pytorch,opencv"/>`{=html}
+```{=html}
+</p>
+```
 
-### Web Development
-![HTML5](https://img.shields.io/badge/HTML5-E34C26?style=for-the-badge&logo=html5&logoColor=white)
-![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
-![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
-![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)
+------------------------------------------------------------------------
 
-### Databases & Tools
-![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
-![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)
-![GitHub](https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white)
+## 📊 GitHub Statistics
 
----
+::: {align="center"}
+`<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajaanusmanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true"/>`{=html}
 
+`<img width="49%" src="https://streak-stats.demolab.com?user=rajaanusmanan&theme=tokyonight&hide_border=true"/>`{=html}
+
+`<br>`{=html}`<br>`{=html}
+
+`<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaanusmanan&layout=compact&theme=tokyonight&hide_border=true"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## 📈 Contribution Graph
+
+::: {align="center"}
+`<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajaanusmanan&theme=tokyo-night&hide_border=true"/>`{=html}
+:::
+
+------------------------------------------------------------------------
+
+## 🏆 GitHub Trophies
+
+::: {align="center"}
+`<img src="https://github-profile-trophy.vercel.app/?username=rajaanusmanan&theme=tokyonight&no-frame=true&row=2&column=4"/>`{=html}
+:::
+
+------------------------------------------------------------------------
 
 ## 🚀 Featured Projects
 
-### 1. **Personal Finance Manager System**
-- **Tech Stack:** Flask, MySQL, HTML, CSS, JavaScript
-- **Description:** A comprehensive web-based application for managing personal finances with features like expense tracking, budget planning, and financial analytics.
-- **Repository:** [View Project](https://github.com/rajaanusmanan) <!-- Replace with actual project URL -->
+### 🤖 Guardian AI
 
+AI-powered suspicious activity detection using YOLOv8 and OpenCV.
+
+### 💰 BudgetBrain
+
+Personal Finance Manager built with Flask, MySQL, HTML, CSS and
+JavaScript.
+
+### 🤖 AI Chatbot
+
+Python-based intelligent chatbot using modern AI techniques.
+
+------------------------------------------------------------------------
+
+## 🏅 Certifications
+
+-   Generative AI for Everyone --- DeepLearning.AI
+-   Prompt Engineering --- Coursera
+-   Python Essentials
+-   SQL Basics
+
+------------------------------------------------------------------------
+
+## 📚 Currently Learning
+
+-   Machine Learning
+-   Deep Learning
+-   Computer Vision
+-   Data Science
+-   Cloud Computing
+
+------------------------------------------------------------------------
+
+## 🤖 Areas of Interest
+
+-   Artificial Intelligence
+-   Machine Learning
+-   Data Science
+-   Computer Vision
+-   Full-Stack Development
+-   Database Systems
+
+------------------------------------------------------------------------
 
 ## 💼 Career Interests
 
-<div align="center">
+-   AI Engineer
+-   Machine Learning Engineer
+-   Data Scientist
+-   Backend / Full-Stack Developer
 
-| Interest | Focus Area |
-|----------|-----------|
-| 🤖 **Artificial Intelligence** | Building intelligent systems and automation |
-| 📊 **Machine Learning** | Predictive modeling and pattern recognition |
-| 🧠 **Deep Learning** | Neural networks and advanced architectures |
-| 📈 **Data Science** | Data analysis and insights extraction |
-| 💻 **Full-Stack Development** | End-to-end web application development |
-| 🗄️ **Database Systems** | Data storage and management optimization |
+------------------------------------------------------------------------
 
-</div>
+## 🤝 Open Source
 
----
+I'm always happy to collaborate on AI, Python, Flask, SQL, and
+open-source projects.
 
-## 🎯 Open to Opportunities
+------------------------------------------------------------------------
 
-I'm actively seeking:
-- 🎓 **Internship Opportunities** in AI/ML and Full-Stack Development
-- 🤝 **Collaboration** on interesting AI and web development projects
-- 📚 **Learning Partnerships** with experienced professionals in tech
-- 💡 **Innovative Projects** that make a real-world impact
+## 🌍 Languages
 
----
+-   🇵🇰 Urdu (Native)
+-   🇬🇧 English (Professional Working Proficiency)
 
-## 📞 Connect With Me
+------------------------------------------------------------------------
 
-<div align="center">
+## 📫 Connect With Me
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/anus-manan-raja-036b182bb/) 
+-   LinkedIn: https://www.linkedin.com/in/anus-manan-raja-036b182bb/
+-   GitHub: https://github.com/rajaanusmanan
+-   Instagram: https://www.instagram.com/rajaam01/
+-   Facebook: https://www.facebook.com/rajaam01/
 
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/rajaam01/)
+------------------------------------------------------------------------
 
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/rajaam01/)
+::: {align="center"}
+### ⭐ Thanks for visiting my profile!
 
-[![GitHub](https://img.shields.io/badge/GitHub-%23121011.svg?style=for-the-badge&logo=github&logoColor=white)](https://github.com/rajaanusmanan)
-
-
-</div>
-
----
-
----
-
-# 📊 GitHub Stats
-
-<div align="center">
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajaanusmanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true"/>
-
-<img width="49%" src="https://github-readme-streak-stats.herokuapp.com/?user=rajaanusmanan&theme=tokyonight&hide_border=true"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaanusmanan&layout=compact&theme=tokyonight&hide_border=true"/>
-
-</div>
-
----
-
-# 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rajaanusmanan&theme=tokyonight&no-frame=true&row=2&column=4"/>
-
-</div>
-
----
-
-# 📈 Contribution Graph
-
-<div align="center">
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=rajaanusmanan&theme=tokyo-night"/>
-
-</div>
-
----
-
-# 📑 GitHub Profile Summary
-
-<div align="center">
-
-<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=rajaanusmanan&theme=tokyonight"/>
-
-</div>
-
-<br>
-
-<div align="center">
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajaanusmanan&theme=tokyonight"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=rajaanusmanan&theme=tokyonight&utcOffset=5"/>
-
-<img width="32%" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=rajaanusmanan&theme=tokyonight"/>
-
-</div>
-
----
-
-# 👀 Profile Visitors
-
-<div align="center">
-
-<img src="https://komarev.com/ghpvc/?username=rajaanusmanan&label=Profile+Views&color=0891b2&style=for-the-badge"/>
-
-</div>
-
----
-
-## 📝 Latest Blog Posts / Learning Resources
-
-- 🎓 Continuously learning from [Coursera](https://www.coursera.org/), [Kaggle](https://www.kaggle.com/), and [GitHub Learning Lab](https://lab.github.com/)
-- 📖 Exploring cutting-edge research in AI and Machine Learning
-- 💬 Engaging with tech communities and open-source projects
-
----
-
-<div align="center">
-
-### ⭐ If you find my projects interesting, feel free to star them and connect with me!
-
-<img src="https://media.giphy.com/media/LnQjpWaON8nhr21vNW/giphy.gif" width="60"> <em><b>I love connecting with different people</b> so if you want to say <b>hi, I'll be happy to meet you more!</b> :)</em>
-
-</div>
-
----
-
-<div align="center">
-
-**Last Updated:** June 2026 | **Portfolio Version:** 2.0
-
-</div>
+**Code • Learn • Build • Repeat 🚀**
+:::
