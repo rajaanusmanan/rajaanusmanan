@@ -102,8 +102,8 @@ Fun Fact:   I debug ML models more than my code 😅
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajaanusmanan&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&hide=prs" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaanusmanan&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top languages"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajaanusmanan&show_icons=true&theme=tokyonight&cache_seconds=7200" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaanusmanan&layout=compact&theme=tokyonight&cache_seconds=7200" alt="Top languages"/>
 </div>
 
 <br/>
