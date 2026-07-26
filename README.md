@@ -102,22 +102,18 @@ Fun Fact:   I debug ML models more than my code 😅
 ## 📊 GitHub Statistics
 
 <div align="center">
-  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=rajaanusmanan&show_icons=true&theme=tokyonight&hide_border=true&count_private=true&include_all_commits=true" alt="GitHub stats"/>
-  <img width="49%" src="https://streak-stats.demolab.com?user=rajaanusmanan&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajaanusmanan&show_icons=true&theme=tokyonight&hide_border=false&count_private=true&include_all_commits=true&hide=prs" alt="GitHub stats"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaanusmanan&layout=compact&theme=tokyonight&hide_border=false&langs_count=8" alt="Top languages"/>
 </div>
 
 <br/>
-
-<div align="center">
-  <img width="40%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaanusmanan&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
-</div>
 
 ---
 
 ## 📈 Contribution Graph
 
 <div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajaanusmanan&theme=tokyo-night&hide_border=true" alt="Contribution graph"/>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rajaanusmanan&theme=tokyo-night&hide_border=true&bg_color=0D1117" alt="Contribution graph"/>
 </div>
 
 ---
@@ -126,13 +122,13 @@ Fun Fact:   I debug ML models more than my code 😅
 
 <div align="center">
   <a href="https://github.com/rajaanusmanan/Guardian-AI">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajaanusmanan&repo=Guardian-AI&theme=tokyonight&hide_border=true" alt="Guardian AI"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajaanusmanan&repo=Guardian-AI&theme=tokyonight&hide_border=false" alt="Guardian AI"/>
   </a>
   <a href="https://github.com/rajaanusmanan/BudgetBrain">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajaanusmanan&repo=BudgetBrain&theme=tokyonight&hide_border=true" alt="BudgetBrain"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajaanusmanan&repo=BudgetBrain&theme=tokyonight&hide_border=false" alt="BudgetBrain"/>
   </a>
   <a href="https://github.com/rajaanusmanan/AI-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajaanusmanan&repo=AI-Chatbot&theme=tokyonight&hide_border=true" alt="AI Chatbot"/>
+    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajaanusmanan&repo=AI-Chatbot&theme=tokyonight&hide_border=false" alt="AI Chatbot"/>
   </a>
 </div>
 
