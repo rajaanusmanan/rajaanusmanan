@@ -99,15 +99,19 @@ Fun Fact:   I debug ML models more than my code 😅
 
 ---
 
-## 📊 GitHub Statistics
+## ✨ Highlights
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=rajaanusmanan&show_icons=true&theme=tokyonight" alt="GitHub stats"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaanusmanan&layout=compact&theme=tokyonight" alt="Top languages"/>
+
+| 🚀 Project Focus | 🧠 Strengths | 🎯 Goals |
+|------------------|--------------|----------|
+| AI & ML Projects | Problem Solving | Build real-world solutions |
+| Computer Vision | Data Analysis | Contribute to open source |
+| Full-Stack Development | Python & SQL | Secure AI/ML internship |
+
 </div>
 
 <br/>
-
 ---
 
 ## 📈 Contribution Graph
@@ -127,14 +131,9 @@ Fun Fact:   I debug ML models more than my code 😅
   <a href="https://github.com/rajaanusmanan/BudgetBrain">
     <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajaanusmanan&repo=BudgetBrain&theme=tokyonight&hide_border=false" alt="BudgetBrain"/>
   </a>
-  <a href="https://github.com/rajaanusmanan/AI-Chatbot">
-    <img src="https://github-readme-stats.vercel.app/api/pin/?username=rajaanusmanan&repo=AI-Chatbot&theme=tokyonight&hide_border=false" alt="AI Chatbot"/>
-  </a>
+  
 </div>
 
-### 🤖 Guardian AI
-AI-powered suspicious activity detection using Computer Vision and YOLOv8.  
-**Tech:** Python, YOLOv8, OpenCV
 
 ### 💰 BudgetBrain
 Personal finance manager with expense tracking and budget analysis.  
