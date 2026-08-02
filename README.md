@@ -119,17 +119,6 @@ Fun Fact:   I debug ML models more than my code 😅
 
 ---
 
-## 🏆 GitHub Trophies
-
-<div align="center">
-
-<img src="https://github-profile-trophy.vercel.app/?username=rajaanusmanan&theme=tokyonight&no-frame=true&row=1&column=7"/>
-
-</div>
-
----
-
-
 
 ## ✨ Highlights
 
@@ -195,22 +184,6 @@ Feel free to reach out if you have a project where I can add value.
 
 ---
 
-## 📫 Connect With Me
-
-<p align="center">
-  <a href="https://www.linkedin.com/in/anus-manan-raja-036b182bb/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin" alt="LinkedIn"/>
-  </a>
-  <a href="mailto:rajaanusmanan1122@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail" alt="Gmail"/>
-  </a>
-  <a href="https://github.com/rajaanusmanan">
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github" alt="GitHub"/>
-  </a>
-</p>
-
----
-
 <div align="center">
 
 ### 💙 Thanks for Visiting!
@@ -218,6 +191,5 @@ Feel free to reach out if you have a project where I can add value.
 ⭐ If you like my work, consider starring my repositories.  
 **Code • Learn • Build • Repeat 🚀**
 
-<img src="https://komarev.com/ghpvc/?username=rajaanusmanan&label=Thanks+for+visiting&color=0891b2&style=for-the-badge" alt="Thanks for visiting"/>
 
 </div>
