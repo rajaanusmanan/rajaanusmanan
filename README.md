@@ -102,7 +102,7 @@
 <h3 align="center">GitHub Activity</h3>
 
 <p align="center">
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=rajaanusmanan&show_icons=true&theme=tokyonight&hide_border=true&include_all_commits=true&count_private=true" />
+<img height="170em" src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=rajaanusmanan&theme=tokyonight"/>
   <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=rajaanusmanan&layout=compact&langs_count=6&theme=tokyonight&hide_border=true" />
 </p>
 
